@@ -1,0 +1,50 @@
+{
+  "CurrentPillar": {
+    "Patch": 43,
+    "Pillar": 21
+  },
+  "Inputs": [
+    {
+      "Value": 128.5,
+      "ValueConstraints": [
+        0,
+        1
+      ],
+      "Name": "VAL_MFCSP1",
+      "IsPlanned": false,
+      "Unit": "na",
+      "IntervalOfSignificance": 0.5,
+      "Changing": {},
+      "Changed": {},
+      "ThrownExceptions": {}
+    },
+    {
+      "Value": 233,
+      "ValueConstraints": [
+        0,
+        1
+      ],
+      "Name": "VAL_MFCSP2",
+      "IsPlanned": false,
+      "Unit": "na",
+      "IntervalOfSignificance": 0.5,
+      "Changing": {},
+      "Changed": {},
+      "ThrownExceptions": {}
+    },
+    {
+      "Value": 760,
+      "ValueConstraints": [
+        0,
+        1
+      ],
+      "Name": "VAL_TEMP",
+      "IsPlanned": false,
+      "Unit": "na",
+      "IntervalOfSignificance": 10,
+      "Changing": {},
+      "Changed": {},
+      "ThrownExceptions": {}
+    }
+  ]
+}
